@@ -13,4 +13,4 @@ function array(b, ...a){
 }
 
 
-array(3,2,5,8)
+array(30,3,2,5,8,20)
